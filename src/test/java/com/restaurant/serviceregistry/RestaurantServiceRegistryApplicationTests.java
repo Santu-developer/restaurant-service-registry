@@ -1,4 +1,4 @@
-package com.restaurant.restaurant_service_registry;
+package com.restaurant.serviceregistry;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
